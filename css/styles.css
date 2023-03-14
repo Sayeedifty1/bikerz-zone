@@ -1,0 +1,9 @@
+.bz-slider-color-prev{
+    background-color: rgba(255, 0, 0, 0.329);
+}
+.bz-slider-color-next{
+    background-color: rgba(0, 0, 0, 0.795);
+}
+.stars{
+    width: 20px;
+}
